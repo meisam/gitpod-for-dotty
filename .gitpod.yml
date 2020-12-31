@@ -1,4 +1,4 @@
-image: meisamf/theia-scala:scala3.0.0-M3-20201229
+image: meisamf/gitpod-scala:test
 vscode:
   extensions:
     - scala-lang.scala@0.3.9:kklqw+c/dNRmtTU8B5repw==
